@@ -1,0 +1,23 @@
+25-09-28 20:33:40.881 - INFO: image_size: 512
+25-09-28 20:33:40.881 - INFO: k_shot: 0
+25-09-28 20:33:40.881 - INFO: batch_size: 1
+25-09-28 20:33:40.881 - INFO: gpu: 0
+25-09-28 20:33:40.881 - INFO: gpu_clip: 0
+25-09-28 20:33:40.882 - INFO: dataset: MPDD
+25-09-28 20:33:40.882 - INFO: data_path: /home/data/zjp/dataset/MPDD
+25-09-28 20:33:40.882 - INFO: save_path: ./results/clip/
+25-09-28 20:33:40.882 - INFO: round: 1
+25-09-28 20:33:40.882 - INFO: class_name: None
+25-09-28 20:33:40.885 - INFO: 已加载进度: []
+25-09-28 20:41:09.631 - INFO: ==== Evaluating model1 ====
+25-09-28 20:47:14.789 - INFO: 
+| objects       |   auroc_sp |   auroc_px |
+|:--------------|-----------:|-----------:|
+| bracket black |       78.1 |       98.5 |
+| bracket brown |       64.9 |       93.3 |
+| bracket white |       56.3 |       98.7 |
+| connector     |       65.5 |       95.5 |
+| metal plate   |       68.5 |       95.4 |
+| tubes         |       98.8 |       95.6 |
+| mean          |       72   |       96.2 |
+25-09-28 20:47:15.076 - INFO: ==== Evaluating model2 ====

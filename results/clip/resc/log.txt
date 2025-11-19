@@ -1,0 +1,17 @@
+25-09-28 15:46:05.602 - INFO: image_size: 512
+25-09-28 15:46:05.603 - INFO: k_shot: 0
+25-09-28 15:46:05.603 - INFO: batch_size: 1
+25-09-28 15:46:05.603 - INFO: gpu: 0
+25-09-28 15:46:05.603 - INFO: gpu_clip: 0
+25-09-28 15:46:05.603 - INFO: dataset: resc
+25-09-28 15:46:05.603 - INFO: data_path: /home/data/zjp/dataset/medical_datasets/RESC
+25-09-28 15:46:05.603 - INFO: save_path: ./results/clip/
+25-09-28 15:46:05.603 - INFO: round: 1
+25-09-28 15:46:05.603 - INFO: class_name: None
+25-09-28 15:46:05.612 - INFO: 已加载进度: []
+25-09-28 16:08:18.525 - INFO: ==== Evaluating model1 ====
+25-09-28 16:08:59.486 - INFO: 
+| objects   |   auroc_sp |   auroc_px |
+|:----------|-----------:|-----------:|
+| RESC      |       42.8 |       67.9 |
+| mean      |       42.8 |       67.9 |

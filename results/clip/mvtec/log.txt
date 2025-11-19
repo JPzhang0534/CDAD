@@ -1,0 +1,11 @@
+25-10-12 21:19:10.600 - INFO: image_size: 512
+25-10-12 21:19:10.600 - INFO: k_shot: 0
+25-10-12 21:19:10.600 - INFO: round: 2
+25-10-12 21:19:10.601 - INFO: gpu: 0
+25-10-12 21:19:10.601 - INFO: batch_size: 1
+25-10-12 21:19:10.601 - INFO: gpu_clip: 0
+25-10-12 21:19:10.601 - INFO: dataset: mvtec
+25-10-12 21:19:10.602 - INFO: data_path: /home/data/zjp/dataset/mvtec
+25-10-12 21:19:10.602 - INFO: save_path: ./results/clip/
+25-10-12 21:19:10.602 - INFO: class_name: None
+25-10-12 21:19:10.603 - INFO: 已加载进度: ['bottle', 'cable', 'capsule', 'carpet', 'grid', 'hazelnut', 'leather', 'metal nut', 'pill', 'screw', 'tile', 'toothbrush', 'transistor', 'wood', 'zipper']

@@ -1,0 +1,11 @@
+25-09-27 09:45:46.408 - INFO: image_size: 512
+25-09-27 09:45:46.408 - INFO: k_shot: 0
+25-09-27 09:45:46.408 - INFO: batch_size: 1
+25-09-27 09:45:46.408 - INFO: gpu: 0
+25-09-27 09:45:46.408 - INFO: gpu_clip: 0
+25-09-27 09:45:46.408 - INFO: dataset: mvtec_loco
+25-09-27 09:45:46.408 - INFO: data_path: /home/data/zjp/dataset/mvtec_loco
+25-09-27 09:45:46.408 - INFO: save_path: ./results/clip/
+25-09-27 09:45:46.409 - INFO: round: 1
+25-09-27 09:45:46.409 - INFO: class_name: None
+25-09-27 09:45:46.418 - INFO: 已加载进度: []

@@ -1,0 +1,11 @@
+25-09-28 15:45:06.525 - INFO: image_size: 512
+25-09-28 15:45:06.525 - INFO: k_shot: 0
+25-09-28 15:45:06.526 - INFO: batch_size: 1
+25-09-28 15:45:06.526 - INFO: gpu: 0
+25-09-28 15:45:06.526 - INFO: gpu_clip: 0
+25-09-28 15:45:06.526 - INFO: dataset: brainmri
+25-09-28 15:45:06.526 - INFO: data_path: /home/data/zjp/dataset/medical_datasets/BrainMRI
+25-09-28 15:45:06.526 - INFO: save_path: ./results/clip/
+25-09-28 15:45:06.526 - INFO: round: 1
+25-09-28 15:45:06.526 - INFO: class_name: None
+25-09-28 15:45:06.540 - INFO: 已加载进度: []
